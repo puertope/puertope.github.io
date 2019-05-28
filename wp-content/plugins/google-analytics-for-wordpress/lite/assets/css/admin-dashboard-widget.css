@@ -86,7 +86,7 @@
 }
 
 .mi-dw-button-cog {
-	background: url('/wp-content/plugins/google-analytics-for-wordpress/lite/assets/img/mi-dw-cog@2x.png') no-repeat transparent;
+	background: url('http://asesoriaturisticape.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/img/mi-dw-cog@2x.png') no-repeat transparent;
 	background-size: 20px;
 	border: none;
 	cursor: pointer;
@@ -165,7 +165,7 @@
 
 .mi-dw-lite {
 	align-items: center;
-	background: url('/wp-content/plugins/google-analytics-for-wordpress/lite/assets/img/mi-dw-bg.png') no-repeat;
+	background: url('http://asesoriaturisticape.com/wp-content/plugins/google-analytics-for-wordpress/lite/assets/img/mi-dw-bg.png') no-repeat;
 	background-size: 100% 470px;
 	display: flex;
 	height: 470px;

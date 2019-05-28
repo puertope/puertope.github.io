@@ -3,8 +3,8 @@
 */
 @font-face {
   font-family: "jetpack";
-  src: url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.eot");
-  src: url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.eot#iefix") format("embedded-opentype"), url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff") format("woff"), url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.ttf") format("truetype"), url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.svg#jetpack") format("svg");
+  src: url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.eot");
+  src: url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.eot#iefix") format("embedded-opentype"), url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff") format("woff"), url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.ttf") format("truetype"), url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.svg#jetpack") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -12,7 +12,7 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "jetpack";
-    src: url("/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.svg#jetpack") format("svg");
+    src: url("http://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.svg#jetpack") format("svg");
   }
 }
 

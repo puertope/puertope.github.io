@@ -22,11 +22,11 @@ Tags: dark, light, white, black, gray, one-column, fluid-layout, responsive-layo
 -------------------------------------------------------------- */
 @font-face {
 	font-family: 'Genericons';
-	src: url('/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot');
-	src: url('/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot#iefix') format('embedded-opentype'),
-		 url('/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.woff') format('woff'),
-		 url('/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.ttf') format('truetype'),
-		 url('/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.svg#genericonsregular') format('svg');
+	src: url('http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot');
+	src: url('http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.eot#iefix') format('embedded-opentype'),
+		 url('http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.woff') format('woff'),
+		 url('http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.ttf') format('truetype'),
+		 url('http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/inc/fonts/genericons-regular-webfont.svg#genericonsregular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 
