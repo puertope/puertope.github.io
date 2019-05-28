@@ -215,7 +215,7 @@ input#s {
 }
 /* Comments link */
 .entry-header .comments-link a {
-	background-image: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/images/comment-bubble-rtl.png);
+	background-image: url(./images/comment-bubble-rtl.png);
 	right: auto;
 	left: 0;
 }
@@ -396,7 +396,7 @@ section.recent-posts .other-recent-posts .comments-link > span {
 	right: -102px;
 }
 .commentlist > li:before {
-	content: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/images/comment-arrow-rtl.png);
+	content: url(./images/comment-arrow-rtl.png);
 	left:auto;
 	right: -21px;
 }
@@ -410,7 +410,7 @@ section.recent-posts .other-recent-posts .comments-link > span {
 
 /* Post author highlighting */
 .commentlist > li.bypostauthor:before {
-	content: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/images/comment-arrow-bypostauthor-rtl.png);
+	content: url(./images/comment-arrow-bypostauthor-rtl.png);
 }
 
 /* sidebar-page.php comments */

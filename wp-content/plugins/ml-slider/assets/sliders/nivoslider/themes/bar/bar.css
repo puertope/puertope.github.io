@@ -15,7 +15,7 @@ Supports Thumbs: false
 }
 .metaslider .theme-bar .nivoSlider {
 	position:relative;
-	background:#fff url(https://asesoriaturisticape.com/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/bar/loading.gif) no-repeat 50% 50%;
+	background:#fff url(./loading.gif) no-repeat 50% 50%;
 }
 .metaslider .theme-bar .nivoSlider img {
 	position:absolute;
@@ -60,7 +60,7 @@ Supports Thumbs: false
 	display:inline-block;
 	width:22px;
 	height:22px;
-	background:url(https://asesoriaturisticape.com/wp-content/plugins/ml-slider/assets/sliders/nivoslider/themes/bar/bullets.png) no-repeat;
+	background:url(./bullets.png) no-repeat;
 	text-indent:-9999px;
 	border:0;
 	margin: 5px 2px 0 2px;

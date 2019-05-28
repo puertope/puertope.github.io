@@ -179,7 +179,7 @@
   width: 30px;
   height: 30px;
   vertical-align: middle;
-  background: url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/images/connect-plug.svg") center center no-repeat;
+  background: url("./../images/connect-plug.svg") center center no-repeat;
   background-size: 100%;
 }
 
@@ -223,8 +223,8 @@
 
 @font-face {
   font-family: 'automatticons';
-  src: url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot");
-  src: url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot#iefix") format("embedded-opentype"), url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff") format("woff"), url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.ttf") format("truetype"), url("https://asesoriaturisticape.com/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.svg#automatticonsregular") format("svg");
+  src: url("./../_inc/fonts/automatticons/automatticons.eot");
+  src: url("./../_inc/fonts/automatticons/automatticons.eot#iefix") format("embedded-opentype"), url("./../_inc/fonts/automatticons/automatticons.woff") format("woff"), url("./../_inc/fonts/automatticons/automatticons.ttf") format("truetype"), url("./../_inc/fonts/automatticons/automatticons.svg#automatticonsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -330,8 +330,8 @@
   position: relative;
   width: 214px;
   margin-left: 6px;
-  background: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/images/jetpack-logo.png) center center no-repeat;
-  background: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/images/jetpack-logo.svg) center center no-repeat, none;
+  background: url(./../images/jetpack-logo.png) center center no-repeat;
+  background: url(./../images/jetpack-logo.svg) center center no-repeat, none;
   background-size: 183px auto;
   color: #fff;
   line-height: 60px;
