@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'metaslider';
-  src:  url('./../icons/metaslider.eot?rmrdbf');
-  src:  url('./../icons/metaslider.eot?rmrdbf#iefix') format('embedded-opentype'),
-    url('./../icons/metaslider.ttf?rmrdbf') format('truetype'),
-    url('./../icons/metaslider.woff?rmrdbf') format('woff'),
-    url('./../icons/metaslider.svg?rmrdbf#metaslider') format('svg');
+  src:  url('https://asesoriaturisticape.com/wp-content/plugins/ml-slider/admin/assets/icons/metaslider.eot?rmrdbf');
+  src:  url('https://asesoriaturisticape.com/wp-content/plugins/ml-slider/admin/assets/icons/metaslider.eot?rmrdbf#iefix') format('embedded-opentype'),
+    url('https://asesoriaturisticape.com/wp-content/plugins/ml-slider/admin/assets/icons/metaslider.ttf?rmrdbf') format('truetype'),
+    url('https://asesoriaturisticape.com/wp-content/plugins/ml-slider/admin/assets/icons/metaslider.woff?rmrdbf') format('woff'),
+    url('https://asesoriaturisticape.com/wp-content/plugins/ml-slider/admin/assets/icons/metaslider.svg?rmrdbf#metaslider') format('svg');
   font-weight: normal;
   font-style: normal;
 }
