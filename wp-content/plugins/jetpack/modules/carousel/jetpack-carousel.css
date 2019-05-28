@@ -18,7 +18,7 @@ div.jp-carousel-fadeaway {
 
 .jp-carousel-next-button span,
 .jp-carousel-previous-button span {
-	background: url(http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/arrows.png) no-repeat center center;
+	background: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/arrows.png) no-repeat center center;
 	background-size: 200px 126px;
 }
 
@@ -44,7 +44,7 @@ only screen and (min--moz-device-pixel-ratio: 1.5),
 only screen and (min-device-pixel-ratio: 1.5) {
 	.jp-carousel-next-button span,
 	.jp-carousel-previous-button span {
-		background-image: url(http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png);
+		background-image: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/arrows-2x.png);
 	}
 }
 
@@ -284,7 +284,7 @@ div.jp-carousel-buttons a:hover {
 div.jp-carousel-buttons a.jp-carousel-reblog,
 div.jp-carousel-buttons a.jp-carousel-commentlink,
 a.jp-carousel-image-download {
-	background: url(http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5) no-repeat;
+	background: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite.png?5) no-repeat;
 	background-size: 16px 200px;
 }
 
@@ -338,7 +338,7 @@ only screen and (min-device-pixel-ratio: 1.5) {
 	div.jp-carousel-buttons a.jp-carousel-reblog,
 	div.jp-carousel-buttons a.jp-carousel-commentlink,
 	a.jp-carousel-image-download {
-		background-image: url(http://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5);
+		background-image: url(https://asesoriaturisticape.com/wp-content/plugins/jetpack/modules/carousel/images/carousel-sprite-2x.png?5);
 	}
 }
 

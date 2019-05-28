@@ -8,7 +8,7 @@
     height:24px;
     width:100%;
     background-color:#FFF;
-    background-image:url(http://asesoriaturisticape.com/wp-content/themes/images/transparency-grid.png);
+    background-image:url(https://asesoriaturisticape.com/wp-content/themes/images/transparency-grid.png);
     box-shadow:0 0 5px rgba(0,0,0,0.4) inset;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -59,7 +59,7 @@
     border-bottom:none;
 }
 .upgrade {
-  background: url(http://asesoriaturisticape.com/wp-content/themes/touristblog/images/btn-back.jpg);
+  background: url(https://asesoriaturisticape.com/wp-content/themes/touristblog/images/btn-back.jpg);
   border-color: #1d4467;
   color: #fff !important;
   cursor: pointer;
